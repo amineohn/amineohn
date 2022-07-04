@@ -5,7 +5,6 @@ Web Developer
 -------------
 
 * 🌍  I'm based in France Bordeaux
-* 🖥️  See my portfolio at [Portfolio](http://amine.im)
 * 🧠  I'm learning RedwoodJS
 
 <a href="https://www.github.com/amineohn" target="_blank" rel="noreferrer"><img
